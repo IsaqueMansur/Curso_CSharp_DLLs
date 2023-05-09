@@ -1,0 +1,8 @@
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\bin\Debug\CarregandoDLLDinamicamente.exe.config
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\bin\Debug\CarregandoDLLDinamicamente.exe
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\bin\Debug\CarregandoDLLDinamicamente.pdb
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\obj\Debug\CarregandoDLLDinamicamente.csproj.AssemblyReference.cache
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\obj\Debug\CarregandoDLLDinamicamente.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\obj\Debug\CarregandoDLLDinamicamente.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\obj\Debug\CarregandoDLLDinamicamente.exe
+C:\Cursos\C#_DLLs\CarregandoDLLDinamicamente\CarregandoDLLDinamicamente\obj\Debug\CarregandoDLLDinamicamente.pdb
