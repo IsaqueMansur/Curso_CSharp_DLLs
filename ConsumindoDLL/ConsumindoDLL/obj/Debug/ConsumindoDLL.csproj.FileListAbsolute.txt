@@ -1,0 +1,11 @@
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\bin\Debug\ConsumindoDLL.exe.config
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\bin\Debug\ConsumindoDLL.exe
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\bin\Debug\ConsumindoDLL.pdb
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\bin\Debug\CriandoDLL.dll
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\bin\Debug\CriandoDLL.pdb
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\obj\Debug\ConsumindoDLL.csproj.AssemblyReference.cache
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\obj\Debug\ConsumindoDLL.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\obj\Debug\ConsumindoDLL.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\obj\Debug\ConsumindoDLL.csproj.CopyComplete
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\obj\Debug\ConsumindoDLL.exe
+C:\Cursos\C#_DLLs\ConsumindoDLL\ConsumindoDLL\obj\Debug\ConsumindoDLL.pdb

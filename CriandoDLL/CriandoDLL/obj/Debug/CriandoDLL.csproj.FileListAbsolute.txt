@@ -1,0 +1,6 @@
+C:\Cursos\C#_DLLs\CriandoDLL\CriandoDLL\bin\Debug\CriandoDLL.dll
+C:\Cursos\C#_DLLs\CriandoDLL\CriandoDLL\bin\Debug\CriandoDLL.pdb
+C:\Cursos\C#_DLLs\CriandoDLL\CriandoDLL\obj\Debug\CriandoDLL.csproj.AssemblyReference.cache
+C:\Cursos\C#_DLLs\CriandoDLL\CriandoDLL\obj\Debug\CriandoDLL.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_DLLs\CriandoDLL\CriandoDLL\obj\Debug\CriandoDLL.dll
+C:\Cursos\C#_DLLs\CriandoDLL\CriandoDLL\obj\Debug\CriandoDLL.pdb
